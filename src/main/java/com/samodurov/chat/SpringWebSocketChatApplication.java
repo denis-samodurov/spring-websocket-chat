@@ -1,12 +1,12 @@
-package com.samodurov.springwebsocketchat;
+package com.samodurov.chat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringWebsocketChatApplication {
+public class SpringWebSocketChatApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringWebsocketChatApplication.class, args);
+		SpringApplication.run(SpringWebSocketChatApplication.class, args);
 	}
 }

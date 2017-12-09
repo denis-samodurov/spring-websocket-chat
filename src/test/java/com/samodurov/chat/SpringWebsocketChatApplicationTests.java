@@ -1,4 +1,4 @@
-package com.samodurov.springwebsocketchat;
+package com.samodurov.chat;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
